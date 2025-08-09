@@ -27,7 +27,7 @@ The form adapts perfectly to all screen sizes — from mobile phones to large de
 
 ## 📸 Screenshot
 
-![Project Screenshot](./screenshot.png)  
+![Project Screenshot](./Screenshot.png)  
 
 
 ---
