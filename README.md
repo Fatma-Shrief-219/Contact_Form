@@ -31,6 +31,3 @@ The form adapts perfectly to all screen sizes — from mobile phones to large de
 
 
 ---
-
-## 📂 Project Structure
-
